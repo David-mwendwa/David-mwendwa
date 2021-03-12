@@ -12,7 +12,7 @@ Connect with moi:
 [<img align="center" alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/brianlusina)
 
 
-Ecetera ectera:
+et cetera et cetera:
 
 - 🔭  Exploring chatbots, automation, websites, systems, low level APIs, apps, phew! :sweat_smile: 
 - 🌱  Currently learning distributed systems at large scale
