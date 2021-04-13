@@ -51,4 +51,4 @@ et cetera et cetera:
 - 👯  Looking to collaborate on interesting projects that push the limits
 - 💬  Ask me about tech stuff, music, money, life, sports
 - 📫  How to reach me: Preferrably on LinkedIn or via my email, if thee can find it :smile:
-- ⚡  Fun fact: ​I​ ​pla​y​ ​t​he​ :guitar: on my spare time & :soccer:
+- ⚡  Fun fact: ​I​ ​pla​y​ ​t​he​ :guitar: on my spare time, :soccer:, 🎮 & enjoy the outdoors 🌴
