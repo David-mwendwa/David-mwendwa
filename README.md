@@ -32,7 +32,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
 
 
-## :sleuth_or_spy::skin-tone-6: :face_with_monocle::nerd_face: Topics I follow
+## 🕵🏿‍ 🧐 :nerd_face: Topics I follow
 
 <table>
   <tr>
