@@ -8,7 +8,6 @@ I am experimenting 🔭 with new technologies to build some interesting stuff :r
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at [brianlusina.github.io](https://brianlusina.github.io) as well as on [Medium](https://medium.com/@lusinabrian).
 
-
 <hr/>
 
 ## 🔧 Technologies & Tools
@@ -108,6 +107,10 @@ Connect with moi:
 [<img align="center" alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@lusinabrian/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [<img align="center" alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/brianlusina)
 
+Other Places you can find my open source contributions:
+
+- [Gitlab](https://gitlab.com/BrianLusina)
+- [Bitbucket](https://bitbucket.org/lusinabrian/)
 
 et cetera et cetera:
 
