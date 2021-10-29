@@ -6,10 +6,6 @@ I am David Mwendwa, a Software Engineer/Cloud Developer. I write code daily...we
 
 I am experimenting 🔭 with new technologies to build some interesting stuff :rocket: :hammer_and_wrench: that make our lives easier.
 
-## &#x270d; Blog & Writing
-
-Apart from coding, I also maintain a blog - you can find my articles on my website at [brianlusina.github.io](https://brianlusina.github.io) as well as on [Medium](https://medium.com/@lusinabrian).
-
 <hr/>
 
 ## 🔧 Technologies & Tools
