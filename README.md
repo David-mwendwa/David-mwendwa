@@ -58,13 +58,13 @@ I am experimenting 🔭 with new technologies to build some interesting stuff :r
 
 ## &#x1f4c8; My GitHub Stats
 
-<!-- ![](https://komarev.com/ghpvc/?username=brianlusina) -->
+<!-- ![](https://komarev.com/ghpvc/?username=David-mwendwa) -->
 
-<a href="https://github.com/BrianLusina/brianlusina">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianLusina&hide=java,html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/David-mwendwa/David-mwendwa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=David-mwendwa&hide=java,html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/BrianLusina/brianlusina">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrianLusina&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Lusina's GitHub Stats" />
+<a href="https://github.com/David-mwendwa/David-mwendwa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=David-mwendwa&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="David's GitHub Stats" />
 </a>
 
 <br/>
